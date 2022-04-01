@@ -85,6 +85,5 @@ public class Main {
         long varA = 100 + Math.round(Math.random()*899);
         long varB = ((varA % 100) / 10);
         System.out.println("В числе: " + varA + " центральной цифрой является - " + varB);
-//        Для пул-запроса
     }
 }
